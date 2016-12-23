@@ -1,7 +1,7 @@
 curator: Charlotte
-goal:  
+goal: Get the Right Scope  
 checkpoints: 
   - task: Scope out Scope
     resource-url: https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/ 
-  - task: 
+  - task: Code with This
     resource-url: https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch1.md
