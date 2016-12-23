@@ -2,6 +2,6 @@ curator: Charlotte
 goal: Manipulate Data Collections
 checkpoints: 
   - task: Master Asynchronous Programming
-    url: "https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop"
+    resource-url: "https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop"
   - task: Map, Filter and Reduce Your Data 
-    url: "http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/"
+    resource-url: "http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/"
