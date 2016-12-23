@@ -2,8 +2,8 @@ curator: Charlotte
 goal: Handle User Input
 checkpoints: 
   - task: Shape Your Forms
-    url: "http://www.codeactually.com/forms.html" 
+    resource-url: "http://www.codeactually.com/forms.html" 
   - task: Submit Your Forms
-    url: "https://www.tutorialspoint.com/javascript/javascript_events.htm"
+    resource-url: "https://www.tutorialspoint.com/javascript/javascript_events.htm"
   - task: Mix and Match Elements
-    url: "http://nativeformelements.com/"
+    resource-url: "http://nativeformelements.com/"
