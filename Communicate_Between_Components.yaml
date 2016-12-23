@@ -2,9 +2,9 @@ curator: charlotte
 goal: Communicate between Components
 checkpoints: 
   - task: Communicate Data
-    url: "http://andrewhfarmer.com/component-communication/"
+    resource-url: "http://andrewhfarmer.com/component-communication/"
   - task: Communicate Events
-    url: "http://react.tips/how-reactjs-components-communicate/"
+    resource-url: "http://react.tips/how-reactjs-components-communicate/"
   - task: Marry Properties and Components
-    url: "https://facebook.github.io/react/docs/components-and-props.html"
+    resource-url: "https://facebook.github.io/react/docs/components-and-props.html"
    
