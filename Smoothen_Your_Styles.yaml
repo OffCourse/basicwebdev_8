@@ -1,5 +1,5 @@
 curator: Charlotte
-goal: Smooth Your Styles
+goal: Smoothen Your Styles
 checkpoints: 
   - task: Start Using CSS Transitions
     resource-url: "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions"
