@@ -1,8 +1,7 @@
-curator: Charlotte
 goal: Smoothen Your Styles
 checkpoints: 
   - task: Start Using CSS Transitions
-    resource-url: "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions"
+    resource-url: "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions/"
   - task: Make It Last with Duration
     resource-url: "https://css-tricks.com/almanac/properties/t/transition-duration/"
   - task: Go Easy with Ease-In and Ease-Out
@@ -10,6 +9,6 @@ checkpoints:
   - task: Delay
     resource-url: "https://tympanus.net/codrops/css_reference/transition-delay/"
   - task: Combine Them All
-    resource-url: "https://codepen.io/trezy/pen/fxIle"
+    resource-url: "https://codepen.io/trezy/pen/fxIle/"
   - task: Get Started with Animations
-    resource-url: "https://www.youtube.com/watch?v=8kK-cA99SA0"
+    resource-url: "https://www.youtube.com/watch?v=8kK-cA99SA0/"
